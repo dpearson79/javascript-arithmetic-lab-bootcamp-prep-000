@@ -44,7 +44,7 @@ function preserveDecimal(n) {
 }
 var n = 'sldkjflksjf'
 function makeInt(n) {
-  return parseInt('sldkjflksjf')
+  return parseInt('sldkjflksjf',0)
 }
 
 
