@@ -35,7 +35,7 @@ function makeInt(n) {
   return
 }
 function makeInt(n) {
-  return parseInt('15', 10)
+  return parseInt('450', 10)
 }
 var n = '2.222'
 function preserveDecimal(n) {
