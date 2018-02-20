@@ -36,8 +36,7 @@ function makeInt(n) {
 }
 var n = 2328
 function makeInt(n) {
-  parseInt('0 * 2328', 10)
-  return
+  return parseInt('0 * 2328', 10)
 }
 var n = '2.222'
 function preserveDecimal(n) {
