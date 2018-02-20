@@ -34,7 +34,6 @@ var n = '2.2222'
 function makeInt(n) {
   return
 }
-var n = 15
 function makeInt(n) {
   return parseInt('15', 10)
 }
