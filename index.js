@@ -30,18 +30,15 @@ var n = 58
 function dec(n) {
   return (n - 1)
 }
-var n = '2.2222'
-function makeInt(n) {
-  return
-}
 
-var n = '2.222'
+
+
 function preserveDecimal(n) {
   return parseFloat(n)
 }
-var n = '0'
+
 function makeInt(n) {
-  return parseInt('0',10)
+  return parseInt(n,10)
 }
 
 
