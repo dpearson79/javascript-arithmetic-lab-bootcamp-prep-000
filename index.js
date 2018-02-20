@@ -42,5 +42,9 @@ var n = '2.222'
 function preserveDecimal(n) {
   return parseFloat(n)
 }
+var n = 'sldkjflksjf'
+function makeInt(n) {
+  return parseInt('sldkjflksjf')
+}
 
 
