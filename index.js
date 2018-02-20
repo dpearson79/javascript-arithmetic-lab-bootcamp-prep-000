@@ -34,9 +34,9 @@ var n = '2.2222'
 function makeInt(n) {
   return
 }
-var n = 2328
+var n = 15
 function makeInt(n) {
-  return parseInt('2328', 10)
+  return parseInt('15', 10)
 }
 var n = '2.222'
 function preserveDecimal(n) {
